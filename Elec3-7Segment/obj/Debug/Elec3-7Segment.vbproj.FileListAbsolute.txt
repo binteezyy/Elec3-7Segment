@@ -1,0 +1,11 @@
+D:\projects\vb\Elec3-7Segment\Elec3-7Segment\bin\Debug\Elec3-7Segment.exe.config
+D:\projects\vb\Elec3-7Segment\Elec3-7Segment\bin\Debug\Elec3-7Segment.exe
+D:\projects\vb\Elec3-7Segment\Elec3-7Segment\bin\Debug\Elec3-7Segment.pdb
+D:\projects\vb\Elec3-7Segment\Elec3-7Segment\bin\Debug\Elec3-7Segment.xml
+D:\projects\vb\Elec3-7Segment\Elec3-7Segment\obj\Debug\Elec3-7Segment.vbprojAssemblyReference.cache
+D:\projects\vb\Elec3-7Segment\Elec3-7Segment\obj\Debug\Elec3_7Segment.Form1.resources
+D:\projects\vb\Elec3-7Segment\Elec3-7Segment\obj\Debug\Elec3_7Segment.Resources.resources
+D:\projects\vb\Elec3-7Segment\Elec3-7Segment\obj\Debug\Elec3-7Segment.vbproj.GenerateResource.cache
+D:\projects\vb\Elec3-7Segment\Elec3-7Segment\obj\Debug\Elec3-7Segment.exe
+D:\projects\vb\Elec3-7Segment\Elec3-7Segment\obj\Debug\Elec3-7Segment.xml
+D:\projects\vb\Elec3-7Segment\Elec3-7Segment\obj\Debug\Elec3-7Segment.pdb
